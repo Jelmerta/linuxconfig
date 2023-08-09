@@ -1,0 +1,48 @@
+functionality
+------------
+Slack
+Power saving options? Seems to go through battery quite fast, also no warning.
+buttons sometimes locking up
+thinkpad gestures
+fn keys leds always on/off, not toggling.
+multiscreen audio not working, probably switching audio. Related to above?
+brave sometimes locking up
+discord sometimes locking up
+
+fix rofi error config
+i3lock using shortcut? https://wiki.archlinux.org/title/Session_lock
+download discord client (use discord as tray? background program? different desktop?)
+set duckduckgo as default
+mpv config/frontend
+zsh configuration
+ohmyzsh config... Do i need it?
+alacritty config
+p10k config
+i3 config?
+x config?
+touchpad config?
+rutracker torrent find
+
+rice
+------------
+general start? https://github.com/ibrahimbutt/direwolf-arch-rice
+alacritty font /home/jelmer/.config/alacritty/alacritty.yml
+fonts (fix fontconfig too) (default) man fonts-conf
+color scheme
+check dot-files of others
+zsh configuration
+breeze? theme? icons?
+
+security
+------------
+reset insecure pws (users, bios, tile, others)
+setup bitwarden
+setup yubikey
+encrypt disk (luks2? uefi secure boot?)
+prey?
+
+SE
+-------------------
+install mathematica
+calendar install
+backups

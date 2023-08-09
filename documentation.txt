@@ -1,0 +1,3 @@
+backlight is working using light, as found in my i3 config.
+This required the user to be added to the video group
+to be allowed to execute the commands.

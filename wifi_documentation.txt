@@ -1,0 +1,5 @@
+#Find list of wifi networks in area using nmcli
+nmcli d wifi list
+
+# It's important to add the wifi network to known connections. One way of doing this is through nmcli connection add, but even easier is:
+nmcli device wifi connect $ACCESSPOINT(such as AndroidAP8715)

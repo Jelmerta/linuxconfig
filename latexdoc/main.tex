@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex}
+\addbibresource{include/bib.bib}
+\title{}
+\author{Jelmer Tom Alphenaar}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\clearpage
+
+% \hypersetup{hidelinks} \tableofcontents %}
+
+\clearpage
+
+\section{Introduction}
+\label{sec:introduction}
+\input{sections/introduction.tex}
+\clearpage
+
+\pagebreak
+
+\addcontentsline{toc}{section}{References}
+\printbibliography
+
+\clearpage
+
+\end{document}
